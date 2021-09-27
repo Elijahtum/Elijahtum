@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Elijahtum
-- 👀 I’m interested in Software programming
-- 🌱 I’m currently learning java language and also how to work with Android Studio
+- 👋 Hi, I’m Elijah Tum
+- 👀 I love Software programming
+- 🌱 I’m currently learning java programming language and how to use Android Studio
 - 💞️ I’m looking to collaborate on projects for Anroid mobile applications
 - 📫 kiprutoelijah@gmail.com 
 <!---
